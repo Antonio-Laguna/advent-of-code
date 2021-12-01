@@ -1,2 +1,3 @@
-# advent-of-code
-My approaches to the Advent Of Code
+# 2021 Advent Of Code
+
+* [Day 1](https://adventofcode.com/2021/day/1) ⭐️ ⭐️
