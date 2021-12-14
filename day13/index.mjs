@@ -79,7 +79,7 @@ function followInstructions(instructions, paper) {
 
   // Printing result on screen
   foldingPaper.forEach(line => {
-    const chars = line.map(number => number > 0 ? '.' : '#');
+    const chars = line.map(number => number > 0 ? '#' : '.');
     console.log(...chars);
   });
 }
